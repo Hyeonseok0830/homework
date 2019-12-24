@@ -1,0 +1,32 @@
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\bin\Debug\Castle Defense-0.exe.config
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\bin\Debug\Castle Defense-0.exe
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\bin\Debug\Castle Defense-0.pdb
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle Defense-0.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle_Defense_0.Form1.resources
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle_Defense_0.Properties.Resources.resources
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle Defense-0.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle Defense-0.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle Defense-0.exe
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle Defense-0.pdb
+C:\Users\96hye\Desktop\Castle Defense -5 ( 같은팀충돌 해결필요) (2)\obj\Debug\Castle_Defense_0.StartForm.resources
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle Defense-0.csprojAssemblyReference.cache
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle_Defense_0.Form1.resources
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle_Defense_0.Properties.Resources.resources
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle_Defense_0.StartForm.resources
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle Defense-0.csproj.GenerateResource.cache
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle Defense-0.csproj.CoreCompileInputs.cache
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle Defense-0.exe
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\obj\Debug\Castle Defense-0.pdb
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\bin\Debug\Castle Defense-0.exe.config
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\bin\Debug\Castle Defense-0.exe
+C:\Users\96hye\Desktop\Castle Defense -6(통신)\bin\Debug\Castle Defense-0.pdb
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\bin\Debug\Castle Defense-0.exe.config
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\bin\Debug\Castle Defense-0.exe
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\bin\Debug\Castle Defense-0.pdb
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle Defense-0.csprojAssemblyReference.cache
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle_Defense_0.Form1.resources
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle_Defense_0.Properties.Resources.resources
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle Defense-0.csproj.GenerateResource.cache
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle Defense-0.csproj.CoreCompileInputs.cache
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle Defense-0.exe
+C:\Users\nrhys\OneDrive\Desktop\Castle Defense -8(클라이언트)\obj\Debug\Castle Defense-0.pdb
